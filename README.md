@@ -41,3 +41,17 @@ Place this checkpoint anywhere inside the project directory:
    ├── full_inf_pipeline.ipynb    
    ├── v2_35epochs.pt                    
    ```
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+* [Special Thanks](https://github.com/ankandrew/fast-plate-ocr) - The parent **FastPlateOCR** repo.
+* [Dataset link](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e) - A **cleanly annotated** dataset which was used for finetuning.
+---
+
+### ⭐ If you find this project helpful, don’t forget to star the repo!
