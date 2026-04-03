@@ -1,0 +1,9 @@
+# config.yaml - YOLOv8 training config
+# TODO : comment out followind to mention why used line by line
+model: plate_v1_33_epochs.pt        
+data: number_plates_yolov8/data.yaml    
+epochs: 2
+img_size: 640             
+save_dir: runs/train      
+run_name: plate_v3_35_epochs       
+output_model: plate_v2_35_epochs.pt 

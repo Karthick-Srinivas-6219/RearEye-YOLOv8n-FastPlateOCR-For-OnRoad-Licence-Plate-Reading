@@ -1,0 +1,8 @@
+streamlit
+tqdm
+opencv-python
+numpy
+matplotlib
+ultralytics
+
+fast-plate-ocr[onnx-gpu]
