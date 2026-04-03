@@ -25,7 +25,19 @@ This repo is a successful attempt at replicating the licence plate reading syste
 ├── demo.py                   # A Streamlit demo of the entire project.
 ├── plate_detect_config.yaml   # yaml file specifying the training recipie.
 ├── full_inf_pipeline.ipynb    # script which runs the entire licence plate reading pipeline: localization --> recognition/reading.
-├── v2_35epochs.pt             # checkpoint which should be downloaded from the link specified under 'project dependencies'.
+├── v2_35epochs.pt             # checkpoint which should be downloaded from the link specified under 'Running Dependency'.
 ```
 
 ---
+## 🔧 Running Dependency
+
+Download **v2_35epochs.pt** from the link [[Link to download]](https://drive.google.com/file/d/1kksYqP62qSxm4r5fYtbiJIFm4-3nL-jI/view?usp=drive_link).
+
+Place this checkpoint anywhere inside the project directory:
+
+   ```bash
+   ├── demo_test/
+   ├── plate_detect_config.yaml       
+   ├── full_inf_pipeline.ipynb    
+   ├── v2_35epochs.pt                    
+   ```
